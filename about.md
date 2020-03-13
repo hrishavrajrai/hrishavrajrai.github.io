@@ -4,52 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+I am a student of SVERI College of Engineering, Pandharpur and am presently pursuing a BTech degree in Mechanical Engineering (2018 - 2022).
 
 ## Education
 
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-
-## Roles
-
-Founder, ABC Organisation
+* Sai RNS Academy, Guwahati
+81.6% in 10th grade (CBSE)
+* Modern High School, Guwahati
+65% in 12th grade (CBSE)
+* SVERI College of Engineering, Pandharpur 
+Pursuing Bachelor of Technology (2018 – 2022), CGPA : 9.03 / 10.00
 
 ## Skills
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
-## Achievements
+* **Languages** - `C` / `C++`
+* **Designing Software** - `Autocad`
+        
+## Training
 
+* **Under curriculum** - `C` / `AutoCAD` / `Laws of Thermodynamics` / `Performance of Boiler` / `Steam nozzle` / `Turbine & Condensers` / `Air compressors` / `Stress & Strain` / `Casting` / `Molding` / `Forming` / `Joining processes` / `IC Engine` / `CI Engine` / `Lathe Machine` / `Drilling Machine` / `Shapers` / `Milling & Gear manufacturing` / `EDM` / `ECM` / `Fluid concept` / `Cams` / `Breakers`/ `Gears` / `Gyroscope` / `Governor mechanism`
 
-* [**This is my first achievement**](#) 
-   
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my second achievement**](#) 
-
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
+* **Beyond curriculum** - `Certified course on C++ Training by CEC` / `Certified course on PGDCA by Vadanta Foundation` / `Workshop on RC Aircraft by Skyfi Labs, Bangalore`
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[hrishavrajrai@gmail.com](mailto:hrishavrajrai@gmail.com)
