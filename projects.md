@@ -8,7 +8,7 @@ permalink: /projects/
 
 A group project about building a simple radio control plane that demonstrates the application of Newton’s law. 
 
-blob:https://web.whatsapp.com/e5f8edcf-b399-4af1-b90c-9fb16fddb01b
+
 
 Aircraft flies with the help of many electronic components like servo motors, simple propeller motor, electronic speed controller (ESR), transmitter, receiver, etc. This project helped in understanding the theory behind the functioning of an aircraft and also sheds light on aircraft design.
 
