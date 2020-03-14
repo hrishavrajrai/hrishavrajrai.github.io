@@ -14,8 +14,9 @@ On March 3, 2020, I visited the *Tarapur Atomic Power Station (TAPS)*, located i
 A nuclear reactor is a source of heat, which is a produced by a self sustained and controlled chain reaction within the reactor core. The geometrical boundaries within which the nuclear fuel, the moderator, the coolant and the control rods are arranged to facilitate production and control of nuclear reaction to provide heat at desired level is called the reactor core.
 
 The chain reaction taking place inside a nuclear reactor is as follows:
--> U235 + n ==> Ba144 + Kr90 + 2n + 215 MeV <-
--> U235 + n ==> Ba141 + Kr92 + 3n + 177 MeV <-
+
+U235 + n ==> Ba144 + Kr90 + 2n + 215 MeV
+U235 + n ==> Ba141 + Kr92 + 3n + 177 MeV
 
 We first visited the **Tarapur Atomic Power Station (TAPS)**, the unique features of this plant were a 220 KV and a 400 KV gas-insulated indoor switchyard (GIS), of which the 400 KV one is used for the power evacuation system. Also, the introduction of a generator circuit breaker between the generator and the GT system divides the system into two independent EMTRs for both divisions.
 
