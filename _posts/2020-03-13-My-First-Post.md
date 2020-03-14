@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My First Post
-author: Hrishav Raj Rai
+title: **My First Post**
+author: **Hrishav Raj Rai**
 ---
 
 Just an introduction.
