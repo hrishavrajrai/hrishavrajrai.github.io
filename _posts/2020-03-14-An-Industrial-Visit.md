@@ -31,4 +31,4 @@ Lastly, we visited the **Turbine Room**, on the seventh floor. Since the turbine
 
 <img width="300" alt="turbine2" src="https://user-images.githubusercontent.com/62136094/76680481-c3df7b80-660e-11ea-962f-acaf5e572a31.png">
 
-# It was an entralling experience overall and beyond everything I'd imagined! 
+### It was an entralling experience overall and beyond everything I'd imagined! 
