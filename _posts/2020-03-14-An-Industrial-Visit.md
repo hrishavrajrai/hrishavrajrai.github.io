@@ -27,8 +27,9 @@ We next visited the **Control Room**. In the control room, we were explained the
 
 Lastly, we visited the **Turbine Room**, on the seventh floor. Since the turbines were extremely noisy, we were given helmets attached with earmuffs for our own safety. The turbine room consisted of 2 LP and 1 HP turbine along with one generator and one exciter. The awesomeness of this room is evident in the pictures below.
 
+<img width="295" alt="turbine1" src="https://user-images.githubusercontent.com/62136094/76680119-08b5e300-660c-11ea-897c-3724787060f4.png">
 
-<img width="295" alt="turbine1" src="https://user-images.githubusercontent.com/62136094/76680119-08b5e300-660c-11ea-897c-3724787060f4.png"> &nbsp &nbsp &nbsp &nbsp &nbsp<img width="278" alt="turbine2" src="https://user-images.githubusercontent.com/62136094/76680217-d22c9800-660c-11ea-80bf-f895fad1d2ea.png">
+<img width="278" alt="turbine2" src="https://user-images.githubusercontent.com/62136094/76680217-d22c9800-660c-11ea-80bf-f895fad1d2ea.png">
 
 
 # It was an entralling experience overall and beyond everything I'd imagined! 
